@@ -1,1 +1,1 @@
-Learning uv, docker
+Learning uv, docker and pipeling 
